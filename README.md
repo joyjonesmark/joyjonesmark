@@ -1,4 +1,4 @@
-### Hi there, I'm [Your Name] 👋  
+### Hi there, I'm JOY JONES MARK 👋  
 
 🚀 **AI Developer & Designer** | Passionate about deep learning, computer vision, and self-healing AI systems.  
 
