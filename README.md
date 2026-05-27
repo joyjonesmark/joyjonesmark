@@ -1,126 +1,144 @@
-# <div align="center">![Neon Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=300&section=header&text=JOY%20JONES%20MARK%20J&fontSize=60&fontColor=00f5ff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20•%20ML%20Engineer%20•%20Full-Stack%20AI%20Developer&descSize=20&descAlignY=55)</div>
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Building+Intelligence+Systems;Production-Ready+ML+Architectures;Agentic+AI+%26+Computer+Vision;Research+%E2%80%A2+Deploy+%E2%80%A2+Scale)](https://git.io/typing-svg)
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:00F5FF,100:7C3AED&height=280&section=header&text=JOY%20JONES%20MARK%20J&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Data%20Science%20%7C%20Full-Stack%20AI%20Applications&descSize=18&descAlignY=55)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=850&lines=Building+ML-powered+products;RAG+%E2%80%A2+Computer+Vision+%E2%80%A2+FastAPI;Turning+data+into+actionable+insights;Research+%E2%86%92+Deploy+%E2%86%92+Scale)
+![Profile Views](https://komarev.com/ghpvc/?username=joyjonesmark&style=for-the-badge&color=00f5ff&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/joyjonesmark?style=for-the-badge&logo=github&labelColor=0d1117&color=7c3aed)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-joyjonesmark-00F5FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)
 </div>
-
 ---
-
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWp5dXQ3eDZwc3pkbGp1eGZtYWo4ZGx5aGFqMTZsOW1ub3F6dHZpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="AI Neural Network"/>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> **ABOUT ME**
-
+<img align="right" alt="AI coding animation" width="390" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWp5dXQ3eDZwc3pkbGp1eGZtYWo4ZGx5aGFqMTZsOW1ub3F6dHZpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+👋 About Me
 ```python
-class AIResearcher:
+class JoyJonesMark:
     def __init__(self):
-        self.name = "Joy Jones Mark J"
-        self.role = "AI/ML Engineer"
-        self.focus = [
-            "Production-ready ML systems",
-            "Agentic AI workflows",
-            "Real-time computer vision pipelines",
-            "FastAPI, Docker, Python, scalable deployment"
+        self.role = "Aspiring Data Scientist / Machine Learning Engineer"
+        self.location = "Chennai, Tamil Nadu"
+        self.core_stack = ["Python", "FastAPI", "TensorFlow", "Keras", "OpenCV", "SQL"]
+        self.interests = [
+            "Machine Learning",
+            "Generative AI",
+            "MLOps",
+            "Agentic AI Systems",
+            "Computer Vision",
+            "Full-Stack ML Applications"
         ]
-        self.research = [
-            "Neural systems architecture",
-            "Vision models optimization",
-            "LLM fine-tuning & adaptation"
-        ]
-    
-    def current_mission(self):
-        return "Building intelligent systems that bridge research and production"
+
+    def mission(self):
+        return "Build intelligent, scalable systems that convert data into real-world impact."
 ```
-
-### 🎯 **Core Expertise**
-- 🤖 **Production ML Systems** → End-to-end model deployment & monitoring
-- 🧠 **Agentic AI** → Autonomous agents, LangChain, LlamaIndex workflows
-- 👁️ **Computer Vision** → Real-time pipelines, object detection, segmentation
-- ⚡ **Scalable APIs** → FastAPI microservices, Docker orchestration
-- 🔬 **Research** → Neural architectures, vision transformers, fine-tuning strategies
-
+I’m focused on building ML-driven applications, RAG systems, computer vision pipelines, and production-ready AI APIs. I enjoy working across the full AI product lifecycle — from data processing and experimentation to deployment, automation, and user-facing applications.
+🚀 What I Do
+🤖 Build machine learning and deep learning solutions with TensorFlow/Keras, PyTorch, Scikit-learn
+🧠 Develop RAG, document-chat, semantic search, and LLM-powered workflows
+👁️ Create computer vision systems using OpenCV, CNNs, MobileNetV2, and VGG-19
+⚡ Design backend services with FastAPI, Flask, Redis, PostgreSQL, and Docker
+📊 Work with SQL, analytics workflows, EDA, data pipelines, and stakeholder-ready reports
+🧩 Build full-stack AI applications using Next.js, Streamlit, Firebase, MongoDB, and vector databases
 ---
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **TECH STACK**
-
+🧠 Featured Projects
+<table>
+<tr>
+<td width="50%">
+💬 ChatLLM Personal AI Assistant
+Tech: Next.js 15, FastAPI, Python, PostgreSQL, pgvector, Redis, Docker
+Built a production-grade AI assistant with RAG, web search, multi-document chat, and LLM orchestration
+Designed document ingestion with PyMuPDF and python-docx for chunking, embedding, and retrieval
+Integrated Cloudflare R2 for scalable document and knowledge asset storage
+</td>
+<td width="50%">
+🖼️ Image Processing Web App
+Tech: OpenCV, Python, Streamlit, Hugging Face Spaces, Pinecone
+Built an interactive image processing tool for filters, resizing, transformations, and enhancements
+Implemented image similarity search using embeddings stored in Pinecone Vector DB
+Deployed a browser-based interface with Streamlit on Hugging Face Spaces
+</td>
+</tr>
+<tr>
+<td width="50%">
+😊 Emotion Recognition System
+Tech: TensorFlow/Keras, OpenCV, FastAPI, Docker
+Built facial emotion recognition models using CNN, MobileNetV2, and VGG-19
+Developed FER preprocessing, augmentation, and face extraction pipelines
+Deployed inference and visualization using FastAPI, Streamlit, and Docker
+</td>
+<td width="50%">
+📚 AI Analytics for LMS
+Tech: NLP, ML, Mathpix OCR, OpenAI API, Data Pipelines
+Integrated an AI-driven analytics module into a full-stack LMS during internship at Yuvabe
+Automated question-bank digitization with OCR and AI-based classification
+Built workflows for topic/difficulty tagging, structured extraction, and reporting
+</td>
+</tr>
+</table>
+---
+🛠️ Tech Stack
 <div align="center">
-
-### **AI/ML Core**
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998&labelColor=black&color=00f5ff)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=black&color=ff6f00)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white&labelColor=black&color=d00000)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=black&color=5c3ee8)
-![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD43B?style=for-the-badge&labelColor=black&color=ffd43b)
-![NLP](https://img.shields.io/badge/NLP-02569B?style=for-the-badge&logo=probot&logoColor=white&labelColor=black&color=02d0ff)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-00f5ff?style=for-the-badge&logo=openai&logoColor=white&labelColor=black)
-
-### **Frontend & 3D**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=black&color=61dafb)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=black&color=ffffff)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white&labelColor=black&color=00f5ff)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=black&color=06b6d4)
-
-### **Backend & Deployment**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=black&color=009688)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=black&color=ffffff)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=black&color=ff6c37)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=black&color=2496ed)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=black&color=ff9900)
-![Hugging Face](https://img.shields.io/badge/🤗_HuggingFace-FFD43B?style=for-the-badge&labelColor=black&color=ffd43b)
-
-### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=black&color=47a248)
-![Vector DB](https://img.shields.io/badge/Vector_DB-6366F1?style=for-the-badge&logo=databricks&logoColor=white&labelColor=black&color=6366f1)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black&color=4479a1)
-
+AI / ML / Data
+![Python](https://img.shields.io/badge/Python-00F5FF?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0d1117)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white&labelColor=0d1117)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0d1117)
+![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=0d1117)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0d1117)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0d1117)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0d1117)
+Backend / Apps / Deployment
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0d1117)
+![Flask](https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge&logo=flask&logoColor=black&labelColor=0d1117)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=0d1117)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0d1117)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)
+Frontend / Databases / Cloud
+![Next.js](https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&logo=nextdotjs&logoColor=black&labelColor=0d1117)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0d1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0d1117)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0d1117)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white&labelColor=0d1117&color=7C3AED)
 </div>
-
 ---
-
-## 📊 **GITHUB STATS**
-
+💼 Experience
+AI / ML Intern — Yuvabe
+Designed and integrated an AI-driven analytics module for a full-stack LMS
+Delivered personalized learning insights and recommendations for students and administrators
+Automated question-bank digitization using Mathpix OCR and OpenAI API
+Built pipelines for unstructured educational data processing, reporting, and structured extraction
+---
+🎓 Education & Certifications
+B.Tech — Computer Science & Engineering  
+Sri Manakula Vinayagar Engineering College | 2020 – 2024
+Certifications
+![Generative AI](https://img.shields.io/badge/Generative_AI-00F5FF?style=for-the-badge&labelColor=0d1117)
+![CCNA](https://img.shields.io/badge/CCNA_Introduction_to_Networks-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0d1117)
+![Databases](https://img.shields.io/badge/IT_Specialist_Databases-7C3AED?style=for-the-badge&labelColor=0d1117)
+![JavaScript](https://img.shields.io/badge/JavaScript_Programming-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117)
+![Python](https://img.shields.io/badge/Python_Programming-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
+![Microsoft](https://img.shields.io/badge/Certiport_Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=0d1117)
+---
+📊 GitHub Analytics
 <div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=joyjonesmark&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&icon_color=ff006e)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=joyjonesmark&theme=synthwave&hide_border=true&background=0d1117&ring=00f5ff&fire=ff006e&currStreakLabel=00f5ff)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=joyjonesmark&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9)
-
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=joyjonesmark&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=7c3aed&text_color=c9d1d9" alt="Joy's GitHub stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=joyjonesmark&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=7c3aed&currStreakLabel=00f5ff" alt="Joy's GitHub streak" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyjonesmark&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9" alt="Top languages" />
 </div>
-
 ---
-
-## 🌐 **CONNECT WITH ME**
-
+📈 Contribution Graph
 <div align="center">
-
-[![Email](https://img.shields.io/badge/Email-joyjonesmark@gmail.com-00f5ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black)](mailto:joyjonesmark@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-joyjonesmark-00f5ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black)](https://linkedin.com/in/joyjonesmark)
-
+![Joy's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joyjonesmark&theme=react-dark&bg_color=0d1117&color=00f5ff&line=7c3aed&point=ffffff&area=true&hide_border=true)
 </div>
-
 ---
-
+🤝 Connect With Me
 <div align="center">
-
-### 🎨 **ACTIVITY GRAPH**
-
-[![Joy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joyjonesmark&theme=react-dark&bg_color=0d1117&color=00f5ff&line=ff006e&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+![Email](https://img.shields.io/badge/Email-joyjonesmark@gmail.com-00F5FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-joyjonesmark-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)
+![GitHub](https://img.shields.io/badge/GitHub-joyjonesmark-FFFFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)
 </div>
-
 ---
-
 <div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=150&section=footer&animation=twinkling)
-
-### 💫 *Technical • Minimal • High-Performance*
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-[![](https://visitcount.itsvg.in/api?id=joyjonesmark&icon=0&color=6)](https://visitcount.itsvg.in)
-
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:00F5FF,100:7C3AED&height=150&section=footer&animation=fadeIn)
+✨ Building intelligent systems. Learning fast. Shipping faster.
 </div>
